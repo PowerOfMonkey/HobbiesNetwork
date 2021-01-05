@@ -1,51 +1,51 @@
-﻿Countries_Code,Countries_Full,Region
-USA,United States,North America
-CHN,China,East Asia
-JPN,Japan,East Asia
-DEU,Germany,West Europe
-IND,India,South Asia
-GBR,United Kingdom,North Europe
-FRA,France,West Europe
-BRA,Brazil,South America
-ITA,Italy,South Europe
-CAN,Canada,North America
-RUS,Russia,East Europe
-KOR,South Korea,East Asia
-AUS,Australia,Oceania
-ESP,Spain,South Europe
-MEX,Mexico,Central America
-IDN,Indonesia,South East Asia
-TUR,Turkey,West Asia
-NLD,Netherlands,West Europe
-SAU,Saudi Arabia,West Asia
-CHE,Switzerland,West Europe
-ARG,Argentina,South America
-SWE,Sweden,North Europe
-POL,Poland,East Europe
-BEL,Belgium,West Europe
-THA,Thailand,South East Asia
-IRN,Iran,South Asia
-AUT,Austria,West Europe
-NOR,Norway,North Europe
-ARE,United Arab Emirates,West Asia
-NGA,Nigeria,West Africa
-ISR,Israel,West Asia
-ZAF,South Africa,South Africa
-HKG,Hong Kong,East Asia
-IRL,Ireland,North Europe
-DNK,Denmark,North Europe
-SGP,Singapore,South East Asia
-MYS,Malaysia,South East Asia
-COL,Colombia,South America
-PHL,Philippines,South East Asia
-PAK,Pakistan,South Asia
-CHL,Chile,South America
-FIN,Finland,North Europe
-BGD,Bangladesh,South Asia
-EGY,Egypt,North Africa
-VNM,Vietnam,South East Asia
-PRT,Portugal,South Europe
-CZE,Czech Republic (Czechia),East Europe
-ROU,Romania,East Europe
-PER,Peru,South America
-NZL,New Zealand,Oceania
+﻿Countries_Code,Countries_Full,Region,ColorCode
+USA,United States,North America,#C5A3FF
+CHN,China,East Asia,#AFF8DB
+JPN,Japan,East Asia,#AFF8DB
+DEU,Germany,West Europe,#F6A6FF
+IND,India,South Asia,#BFFCC6
+GBR,United Kingdom,North Europe,#FF9CEE
+FRA,France,West Europe,#F6A6FF
+BRA,Brazil,South America,#D5AAFF
+ITA,Italy,South Europe,#FCC2FF
+CAN,Canada,North America,#C5A3FF
+RUS,Russia,East Europe,#FFB5E8
+KOR,South Korea,East Asia,#AFF8DB
+AUS,Australia,Oceania,#6EB5FF
+ESP,Spain,South Europe,#FCC2FF
+MEX,Mexico,Central America,#B28DFF
+IDN,Indonesia,South East Asia,#85E3FF
+TUR,Turkey,West Asia,#FFABAB
+NLD,Netherlands,West Europe,#F6A6FF
+SAU,Saudi Arabia,West Asia,#FFABAB
+CHE,Switzerland,West Europe,#F6A6FF
+ARG,Argentina,South America,#D5AAFF
+SWE,Sweden,North Europe,#FF9CEE
+POL,Poland,East Europe,#FFB5E8
+BEL,Belgium,West Europe,#F6A6FF
+THA,Thailand,South East Asia,#85E3FF
+IRN,Iran,South Asia,#BFFCC6
+AUT,Austria,West Europe,#F6A6FF
+NOR,Norway,North Europe,#FF9CEE
+ARE,United Arab Emirates,West Asia,#FFABAB
+NGA,Nigeria,West Africa,#E7FFAC
+ISR,Israel,West Asia,#FFABAB
+ZAF,South Africa,South Africa,#FFF5BA
+HKG,Hong Kong,East Asia,#AFF8DB
+IRL,Ireland,North Europe,#FF9CEE
+DNK,Denmark,North Europe,#FF9CEE
+SGP,Singapore,South East Asia,#85E3FF
+MYS,Malaysia,South East Asia,#85E3FF
+COL,Colombia,South America,#D5AAFF
+PHL,Philippines,South East Asia,#85E3FF
+PAK,Pakistan,South Asia,#BFFCC6
+CHL,Chile,South America,#D5AAFF
+FIN,Finland,North Europe,#FF9CEE
+BGD,Bangladesh,South Asia,#BFFCC6
+EGY,Egypt,North Africa,#FFFFD1
+VNM,Vietnam,South East Asia,#85E3FF
+PRT,Portugal,South Europe,#FCC2FF
+CZE,Czech Republic (Czechia),East Europe,#FFB5E8
+ROU,Romania,East Europe,#FFB5E8
+PER,Peru,South America,#D5AAFF
+NZL,New Zealand,Oceania,#6EB5FF
