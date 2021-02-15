@@ -1,51 +1,51 @@
-﻿Countries_Code,Countries_Full,Region,ColorCode
-USA,United States,North America,#C5A3FF
-CHN,China,East Asia,#AFF8DB
-JPN,Japan,East Asia,#AFF8DB
-DEU,Germany,West Europe,#F6A6FF
-IND,India,South Asia,#BFFCC6
-GBR,United Kingdom,North Europe,#FF9CEE
-FRA,France,West Europe,#F6A6FF
-BRA,Brazil,South America,#D5AAFF
-ITA,Italy,South Europe,#FCC2FF
-CAN,Canada,North America,#C5A3FF
-RUS,Russia,East Europe,#FFB5E8
-KOR,South Korea,East Asia,#AFF8DB
-AUS,Australia,Oceania,#6EB5FF
-ESP,Spain,South Europe,#FCC2FF
-MEX,Mexico,Central America,#B28DFF
-IDN,Indonesia,South East Asia,#85E3FF
-TUR,Turkey,West Asia,#FFABAB
-NLD,Netherlands,West Europe,#F6A6FF
-SAU,Saudi Arabia,West Asia,#FFABAB
-CHE,Switzerland,West Europe,#F6A6FF
-ARG,Argentina,South America,#D5AAFF
-SWE,Sweden,North Europe,#FF9CEE
-POL,Poland,East Europe,#FFB5E8
-BEL,Belgium,West Europe,#F6A6FF
-THA,Thailand,South East Asia,#85E3FF
-IRN,Iran,South Asia,#BFFCC6
-AUT,Austria,West Europe,#F6A6FF
-NOR,Norway,North Europe,#FF9CEE
-ARE,United Arab Emirates,West Asia,#FFABAB
-NGA,Nigeria,West Africa,#E7FFAC
-ISR,Israel,West Asia,#FFABAB
-ZAF,South Africa,South Africa,#FFF5BA
-HKG,Hong Kong,East Asia,#AFF8DB
-IRL,Ireland,North Europe,#FF9CEE
-DNK,Denmark,North Europe,#FF9CEE
-SGP,Singapore,South East Asia,#85E3FF
-MYS,Malaysia,South East Asia,#85E3FF
-COL,Colombia,South America,#D5AAFF
-PHL,Philippines,South East Asia,#85E3FF
-PAK,Pakistan,South Asia,#BFFCC6
-CHL,Chile,South America,#D5AAFF
-FIN,Finland,North Europe,#FF9CEE
-BGD,Bangladesh,South Asia,#BFFCC6
-EGY,Egypt,North Africa,#FFFFD1
-VNM,Vietnam,South East Asia,#85E3FF
-PRT,Portugal,South Europe,#FCC2FF
-CZE,Czech Republic (Czechia),East Europe,#FFB5E8
-ROU,Romania,East Europe,#FFB5E8
-PER,Peru,South America,#D5AAFF
-NZL,New Zealand,Oceania,#6EB5FF
+﻿Countries_Code,Countries_Full,Region,Code
+ARE,United Arab Emirates,West Asia,AE
+ARG,Argentina,South America,AR
+AUS,Australia,Oceania,AU
+AUT,Austria,West Europe,AT
+BEL,Belgium,West Europe,BE
+BGD,Bangladesh,South Asia,BD
+BRA,Brazil,South America,BR
+CAN,Canada,North America,CA
+CHE,Switzerland,West Europe,CH
+CHL,Chile,South America,CL
+CHN,China,East Asia,CN
+COL,Colombia,South America,CO
+CZE,Czech Republic (Czechia),East Europe,CZ
+DEU,Germany,West Europe,DE
+DNK,Denmark,North Europe,CK
+EGY,Egypt,North Africa,EG
+ESP,Spain,South Europe,ES
+FIN,Finland,North Europe,FI
+FRA,France,West Europe,FR
+GBR,United Kingdom,North Europe,GB
+HKG,Hong Kong,East Asia,HK
+IDN,Indonesia,South East Asia,ID
+IND,India,South Asia,IN
+IRL,Ireland,North Europe,IE
+IRN,Iran,South Asia,IR
+ISR,Israel,West Asia,IL
+ITA,Italy,South Europe,IT
+JPN,Japan,East Asia,JP
+KOR,South Korea,East Asia,KR
+MEX,Mexico,Central America,MX
+MYS,Malaysia,South East Asia,MY
+NGA,Nigeria,West Africa,NG
+NLD,Netherlands,West Europe,NL
+NOR,Norway,North Europe,NO
+NZL,New Zealand,Oceania,NZ
+PAK,Pakistan,South Asia,PK
+PER,Peru,South America,PE
+PHL,Philippines,South East Asia,PH
+POL,Poland,East Europe,PL
+PRT,Portugal,South Europe,PT
+ROU,Romania,East Europe,RO
+RUS,Russia,East Europe,RU
+SAU,Saudi Arabia,West Asia,SA
+SGP,Singapore,South East Asia,SG
+SWE,Sweden,North Europe,SE
+THA,Thailand,South East Asia,TH
+TUR,Turkey,West Asia,TR
+USA,United States,North America,US
+VNM,Vietnam,South East Asia,VN
+ZAF,South Africa,South Africa,ZA
