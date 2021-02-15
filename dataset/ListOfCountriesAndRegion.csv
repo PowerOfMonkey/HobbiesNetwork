@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿Countries_Code,Countries_Full,Region,Code,ColorCode
+Countries_Code,Countries_Full,Region,Code,ColorCode
 ARE,United Arab Emirates,West Asia,AE,#FFABAB
 ARG,Argentina,South America,AR,#D5AAFF
 AUS,Australia,Oceania,AU,#6EB5FF
@@ -50,56 +49,3 @@ TUR,Turkey,West Asia,TR,#FFABAB
 USA,United States,North America,US,#C5A3FF
 VNM,Vietnam,South East Asia,VN,#85E3FF
 ZAF,South Africa,South Africa,ZA,#FFF5BA
-=======
-﻿Countries_Code,Countries_Full,Region,Code
-ARE,United Arab Emirates,West Asia,AE
-ARG,Argentina,South America,AR
-AUS,Australia,Oceania,AU
-AUT,Austria,West Europe,AT
-BEL,Belgium,West Europe,BE
-BGD,Bangladesh,South Asia,BD
-BRA,Brazil,South America,BR
-CAN,Canada,North America,CA
-CHE,Switzerland,West Europe,CH
-CHL,Chile,South America,CL
-CHN,China,East Asia,CN
-COL,Colombia,South America,CO
-CZE,Czech Republic (Czechia),East Europe,CZ
-DEU,Germany,West Europe,DE
-DNK,Denmark,North Europe,DK
-EGY,Egypt,North Africa,EG
-ESP,Spain,South Europe,ES
-FIN,Finland,North Europe,FI
-FRA,France,West Europe,FR
-GBR,United Kingdom,North Europe,GB
-HKG,Hong Kong,East Asia,HK
-IDN,Indonesia,South East Asia,ID
-IND,India,South Asia,IN
-IRL,Ireland,North Europe,IE
-IRN,Iran,South Asia,IR
-ISR,Israel,West Asia,IL
-ITA,Italy,South Europe,IT
-JPN,Japan,East Asia,JP
-KOR,South Korea,East Asia,KR
-MEX,Mexico,Central America,MX
-MYS,Malaysia,South East Asia,MY
-NGA,Nigeria,West Africa,NG
-NLD,Netherlands,West Europe,NL
-NOR,Norway,North Europe,NO
-NZL,New Zealand,Oceania,NZ
-PAK,Pakistan,South Asia,PK
-PER,Peru,South America,PE
-PHL,Philippines,South East Asia,PH
-POL,Poland,East Europe,PL
-PRT,Portugal,South Europe,PT
-ROU,Romania,East Europe,RO
-RUS,Russia,East Europe,RU
-SAU,Saudi Arabia,West Asia,SA
-SGP,Singapore,South East Asia,SG
-SWE,Sweden,North Europe,SE
-THA,Thailand,South East Asia,TH
-TUR,Turkey,West Asia,TR
-USA,United States,North America,US
-VNM,Vietnam,South East Asia,VN
-ZAF,South Africa,South Africa,ZA
->>>>>>> 8b19d539c0ea7a8d77bedfa4520e2060937dfb8c
