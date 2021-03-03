@@ -1,51 +1,51 @@
-Countries_Code,Countries_Full,Region,Code,ColorCode,Xpos,Ypos
-ARE,United Arab Emirates,West Asia,AE,#FFABAB,17,-13.6
-ARG,Argentina,South America,AR,#D5AAFF,5.5,-21.7
-AUS,Australia,Oceania,AU,#6EB5FF,30,-18
-AUT,Austria,West Europe,AT,#F6A6FF,12.3,-10.5
-BEL,Belgium,West Europe,BE,#F6A6FF,9.8,-6
-BGD,Bangladesh,South Asia,BD,#BFFCC6,24,-10
-BRA,Brazil,South America,BR,#D5AAFF,6,-16
-CAN,Canada,North America,CA,#C5A3FF,2,-2
-CHE,Switzerland,West Europe,CH,#F6A6FF,14,-8
-CHL,Chile,South America,CL,#D5AAFF,3.5,-20
-CHN,China,East Asia,CN,#AFF8DB,26,-7.2
-COL,Colombia,South America,CO,#D5AAFF,2.3,-13.8
-CZE,Czech Republic (Czechia),East Europe,CZ,#FFB5E8,14,-6.2
-DEU,Germany,West Europe,DE,#F6A6FF,12.2,-5.8
-DNK,Denmark,North Europe,DK,#FF9CEE,9.8,-2.5
-EGY,Egypt,North Africa,EG,#FFFFD1,14.5,-15
-ESP,Spain,South Europe,ES,#FCC2FF,10,-10
-FIN,Finland,North Europe,FI,#FF9CEE,16,-2
-FRA,France,West Europe,FR,#F6A6FF,11.8,-8
-GBR,United Kingdom,North Europe,GB,#FF9CEE,7.7,-4
-HKG,Hong Kong,East Asia,HK,#AFF8DB,29.5,-8
-IDN,Indonesia,South East Asia,ID,#85E3FF,29.5,-15
-IND,India,South Asia,IN,#BFFCC6,22,-14
-IRL,Ireland,North Europe,IE,#FF9CEE,7.2,-7
-IRN,Iran,South Asia,IR,#BFFCC6,19.8,-9.8
-ISR,Israel,West Asia,IL,#FFABAB,15,-10
-ITA,Italy,South Europe,IT,#FCC2FF,12,-13.5
-JPN,Japan,East Asia,JP,#AFF8DB,30,-6
-KOR,South Korea,East Asia,KR,#AFF8DB,28,-4
-MEX,Mexico,Central America,MX,#B28DFF,2,-10
-MYS,Malaysia,South East Asia,MY,#85E3FF,26,-13
-NGA,Nigeria,West Africa,NG,#E7FFAC,12.5,-16.5
-NLD,Netherlands,West Europe,NL,#F6A6FF,10.5,-4
-NOR,Norway,North Europe,NO,#FF9CEE,8,-1
-NZL,New Zealand,Oceania,NZ,#6EB5FF,31,-20
-PAK,Pakistan,South Asia,PK,#BFFCC6,22,-9.5
-PER,Peru,South America,PE,#D5AAFF,3,-17.7
-PHL,Philippines,South East Asia,PH,#85E3FF,29,-12.2
-POL,Poland,East Europe,PL,#FFB5E8,15,-5
-PRT,Portugal,South Europe,PT,#FCC2FF,8,-11.5
-ROU,Romania,East Europe,RO,#FFB5E8,16,-8
-RUS,Russia,East Europe,RU,#FFB5E8,22,-2
-SAU,Saudi Arabia,West Asia,SA,#FFABAB,17.8,-11.8
-SGP,Singapore,South East Asia,SG,#85E3FF,25.5,-15
-SWE,Sweden,North Europe,SE,#FF9CEE,12,-1
-THA,Thailand,South East Asia,TH,#85E3FF,25.5,-11
-TUR,Turkey,West Asia,TR,#FFABAB,18.2,-7.7
-USA,United States,North America,US,#C5A3FF,4,-6
-VNM,Vietnam,South East Asia,VN,#85E3FF,28,-11
-ZAF,South Africa,South Africa,ZA,#FFF5BA,16,-19.7
+Countries_Code,Countries_Full,Region,Code,ColorCode,Xpos,Ypos,InternetUsers,Percentage
+ARE,United Arab Emirates,West Asia,AE,#FFABAB,17,-13.6,"10,082,000",100.9
+ARG,Argentina,South America,AR,#D5AAFF,5.5,-21.7,"41,586,960",93.1
+AUS,Australia,Oceania,AU,#6EB5FF,30,-18,"21,711,706",86.2
+AUT,Austria,West Europe,AT,#F6A6FF,12.3,-10.5,"7,708,997",87.9
+BEL,Belgium,West Europe,BE,#F6A6FF,9.8,-6,"10,857,126",93.9
+BGD,Bangladesh,South Asia,BD,#BFFCC6,24,-10,"111,875,000",67.3
+BRA,Brazil,South America,BR,#D5AAFF,6,-16,"149,057,635",70.7
+CAN,Canada,North America,CA,#C5A3FF,2,-2,"35,477,625",94
+CHE,Switzerland,West Europe,CH,#F6A6FF,14,-8,"8,066,800",93.7
+CHL,Chile,South America,CL,#D5AAFF,3.5,-20,"14,108,392",77.5
+CHN,China,East Asia,CN,#AFF8DB,26,-7.2,"989,080,566",68.5
+COL,Colombia,South America,CO,#D5AAFF,2.3,-13.8,"31,275,567",63.2
+CZE,Czech Republic (Czechia),East Europe,CZ,#FFB5E8,14,-6.2,"9,323,428",87.7
+DEU,Germany,West Europe,DE,#F6A6FF,12.2,-5.8,"79,127,551",93
+DNK,Denmark,North Europe,DK,#FF9CEE,9.8,-2.5,"5,649,494",97.8
+EGY,Egypt,North Africa,EG,#FFFFD1,14.5,-15,"54,741,493",52.5
+ESP,Spain,South Europe,ES,#FCC2FF,10,-10,"42,961,230",92.5
+FIN,Finland,North Europe,FI,#FF9CEE,16,-2,"5,225,678",94
+FRA,France,West Europe,FR,#F6A6FF,11.8,-8,"60,421,689",92.3
+GBR,United Kingdom,North Europe,GB,#FF9CEE,7.7,-4,"63,544,106",94.9
+HKG,Hong Kong,East Asia,HK,#AFF8DB,29.5,-8,"6,698,252",87.7
+IDN,Indonesia,South East Asia,ID,#85E3FF,29.5,-15,"196,400,000",71.1
+IND,India,South Asia,IN,#BFFCC6,22,-14,"749,342,381",53.8
+IRL,Ireland,North Europe,IE,#FF9CEE,7.2,-7,"4,453,436",99
+IRN,Iran,South Asia,IR,#BFFCC6,19.8,-9.8,"67,602,731",79.5
+ISR,Israel,West Asia,IL,#FFABAB,15,-10,"7,002,759",79.7
+ITA,Italy,South Europe,IT,#FCC2FF,12,-13.5,"54,798,299",92.5
+JPN,Japan,East Asia,JP,#AFF8DB,30,-6,"118,626,672",94.5
+KOR,South Korea,East Asia,KR,#AFF8DB,28,-4,"49,234,329",96
+MEX,Mexico,Central America,MX,#B28DFF,2,-10,"88,000,000",66.5
+MYS,Malaysia,South East Asia,MY,#85E3FF,26,-13,"29,161,765",89
+NGA,Nigeria,West Africa,NG,#E7FFAC,12.5,-16.5,"203,168,355",96.1
+NLD,Netherlands,West Europe,NL,#F6A6FF,10.5,-4,"16,383,879",95.6
+NOR,Norway,North Europe,NO,#FF9CEE,8,-1,"5,311,892",98.4
+NZL,New Zealand,Oceania,NZ,#6EB5FF,31,-20,"4,351,987",89.4
+PAK,Pakistan,South Asia,PK,#BFFCC6,22,-9.5,"76,380,000",33.9
+PER,Peru,South America,PE,#D5AAFF,3,-17.7,"22,000,000",67.6
+PHL,Philippines,South East Asia,PH,#85E3FF,29,-12.2,"86,300,000",77.7
+POL,Poland,East Europe,PL,#FFB5E8,15,-5,"29,757,099",78.2
+PRT,Portugal,South Europe,PT,#FCC2FF,8,-11.5,"8,015,519",78.2
+ROU,Romania,East Europe,RO,#FFB5E8,16,-8,"14,387,477",73.8
+RUS,Russia,East Europe,RU,#FFB5E8,22,-2,"116,353,942",80.9
+SAU,Saudi Arabia,West Asia,SA,#FFABAB,17.8,-11.8,"31,856,652",90.1
+SGP,Singapore,South East Asia,SG,#85E3FF,25.5,-15,"5,173,907",87.7
+SWE,Sweden,North Europe,SE,#FF9CEE,12,-1,"9,692,227",96.4
+THA,Thailand,South East Asia,TH,#85E3FF,25.5,-11,"57,000,000",81.1
+TUR,Turkey,West Asia,TR,#FFABAB,18.2,-7.7,"69,107,183",83.3
+USA,United States,North America,US,#C5A3FF,4,-6,"297,322,868",89.8
+VNM,Vietnam,South East Asia,VN,#85E3FF,28,-11,"71,540,000",70.4
+ZAF,South Africa,South Africa,ZA,#FFF5BA,16,-19.7,"34,545,165",57.5
